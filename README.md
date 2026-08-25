@@ -17,7 +17,7 @@
 
 ## 📸 运行截图
    
-assets/screenshot.png
+smart-calculator/screenshot.png
 
 ## 🛠️ 技术栈
 
