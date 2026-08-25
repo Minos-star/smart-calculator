@@ -17,7 +17,7 @@
 
 ## 📸 运行截图
    
-smart-calculator/screenshot.png
+![运行截图](./screenshot.png)
 
 ## 🛠️ 技术栈
 
