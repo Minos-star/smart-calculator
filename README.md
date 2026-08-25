@@ -17,7 +17,7 @@
 
 ## 📸 运行截图
    
-./assets/screenshot.png
+assets/screenshot.png
 
 ## 🛠️ 技术栈
 
