@@ -13,11 +13,19 @@
 1. 确保已安装 Python 3.x
 2. 克隆本仓库到本地：
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/你的用户名/smart-calculator.git
 
 ## 📸 运行截图
    
 screenshot.png
+=======
+   git clone https://github.com/Minos-star/smart-calculator.git
+
+## 📸 运行截图
+   
+![运行截图](./screenshot.png)
+>>>>>>> 38ba4b6d2513ceca6af9be7fe31caef7b9aae68f
 
 ## 🛠️ 技术栈
 
